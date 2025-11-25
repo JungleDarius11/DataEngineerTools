@@ -17,5 +17,7 @@ dependencies = [
     "redis==5.0.8",
     "ipykernel>=7.1.0",
     "notebook>=7.4.7",
+    "webdriver-manager>=4.0.2",
+    "chromedriver>=2.24.1",
 ]
 
